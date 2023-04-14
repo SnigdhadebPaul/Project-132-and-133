@@ -1,0 +1,22 @@
+.header{
+    color: black;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px rgb(106, 248, 189);
+}
+
+
+body{
+    background-size: cover;
+    background-position: center;
+    background-image: radial-gradient(black,red,magenta,turquoise,blue,aquamarine,beige);
+ 
+}
+
+.link {
+    font-size: 30px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+    box-shadow:10px,10px,10px rgb(255, 0, 179) ;
+}
